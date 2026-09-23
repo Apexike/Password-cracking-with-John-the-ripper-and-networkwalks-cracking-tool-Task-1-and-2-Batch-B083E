@@ -1,0 +1,2 @@
+# Password-cracking-with-John-the-ripper-and-networkwalks-cracking-tool-Task-1-and-2-Batch-B083E
+Password Cracking Project: Used John the Ripper and Networkwalks together to audit password strength via offline hash cracking. JtR and Networkwalks ran dictionary, rule-based, and brute-force attacks. Weak, short, reused passwords cracked fast; strong salted hashes resisted. Recommend longer passwords, and regular audits.
